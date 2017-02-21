@@ -1,5 +1,48 @@
 # Firebase-Messaging-Example
-Firebase Cloud Messaging (FCM) is the new version of GCM. Built on top of the GCM infrastructure, it provides the ability send messages to multiple platforms beyond Android: iOS and Mobile web.
 
-In this tutorial, we will see how to configure and use Firebase Cloud Messaging platform in your Android application. Visit my blog for complete tutorial
-http://stacktips.com/tutorials/android/how-to-integrate-firebase-cloud-messaging-for-android
+# Firebase Console  >>  https://console.firebase.google.com/
+
+Add App button. This will download the google-services.json configuration file for your app. Copy this file into your project’s module folder, typically inside app/ directory.
+
+# Modify the project level build.gradle (<project>/build.gradle)
+
+buildscript {
+
+  dependencies {
+  
+    // Add this line
+    
+    classpath 'com.google.gms:google-services:3.0.0'
+    
+  }
+  
+}
+
+
+# And, add the following to app module level build.gradle file.
+
+apply plugin: 'com.android.application'
+
+android {
+
+   ....
+   
+}
+
+dependencies {
+
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    
+    ...
+    
+    //Add this
+    
+    compile 'com.google.firebase:firebase-messaging:9.4.0'
+    
+}
+
+// Add to the bottom of the file
+
+apply plugin: 'com.google.gms.google-services'
+
+
