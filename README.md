@@ -48,3 +48,5 @@ dependencies {
 apply plugin: 'com.google.gms.google-services'
 
 
+
+https://github.com/tontheonelove/Firebase-Messaging-Notifical/blob/master/Firebase-Cloud-Messaging-for-Android-Example-620x507.png
