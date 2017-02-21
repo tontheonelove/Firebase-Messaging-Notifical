@@ -6,6 +6,9 @@ https://github.com/tontheonelove/Firebase-Messaging-Notifical/blob/master/Fireba
 
 Add App button. This will download the google-services.json configuration file for your app. Copy this file into your project’s module folder, typically inside app/ directory.
 
+# https://github.com/tontheonelove/Firebase-Messaging-Notifical/blob/master/Project-Structure.png
+
+
 # Modify the project level build.gradle (<project>/build.gradle)
 
 buildscript {
