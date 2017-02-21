@@ -51,5 +51,11 @@ dependencies {
 apply plugin: 'com.google.gms.google-services'
 
 
+# SEND NOTIFICAL FROM FIREBASE CONSOLE
+
+#https://github.com/tontheonelove/Firebase-Messaging-Notifical/blob/master/Send-Firebase-Notification-620x388.png
+
+
+
 
 https://github.com/tontheonelove/Firebase-Messaging-Notifical/blob/master/Firebase-Cloud-Messaging-for-Android-Example-620x507.png
