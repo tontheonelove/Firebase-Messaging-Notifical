@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_45a0937216f6a6c66ad32ffe1d924898c8858d82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_7a3cdefa43447c7922663e3da7683fde705dbde9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_3f97388e0221b3b1d8e9e7a4b7561c4c0273758c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_85614c33b4ce45052e15f1044c735d6f1684db9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_14865f69c398b8fb50da60db7e45d69ef58e4dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_7180eb589a0d381a1dd9ce0b3164a9b620c2e9bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_4162fdc5e9e5d28b13aad1ff215bb23ef72b5fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_68b9e5c1b55a69541299cb043d9a2b6af93d6b3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_1f7fe0fdb52c7626565e32d0c026ca1a11604a45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_6ce3e1949c72d8ff27fa5daa44a46d5dbbb8339c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="affe29a90a2a709bfd2b8d6411aa99c05a2be96f">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha4_59d43187bdba4421860697b5e9d603393d9f85b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a5ee366d5918617587b60d47e18477744180f907">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_697983a8921ee41c18d3260f5633f11fd7544442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ec2bc573b493b1bd6a993271019aa5ad6a2eff8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha4\constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a882fef6a6b9e3efbb0b6b001895a5fc7c35b391">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha4_a4e29dc66ab5f4b35fc1276b67563cda2c7afe5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a275fa7bd04b992da6fc0e3523d8ca929d5603f">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a8378b221fe5400c1ed90dfcdcdb6d6b5f7ee368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_7f4b6336e12082515da180124a270a6c85841bef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\TON\Desktop\Firebase-Messaging-Example-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_357f792a799490629a02c1856e04b142976bdf3b\classes.dex" />
+    </item>
+
+</items>
